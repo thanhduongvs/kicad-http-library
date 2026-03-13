@@ -1,0 +1,80 @@
+{
+    "id": "C0603_100nF_50V_X7R_10_C14663",
+    "name": "C0603_100nF_50V_X7R_10%_C14663",
+    "symbolIdStr": "symbol:C0603",
+    "exclude_from_bom": "False",
+    "exclude_from_board": "False",
+    "exclude_from_sim": "False",
+    "fields": {
+        "reference": {
+            "value": "C"
+        },
+        "value": {
+          "value": "100nF"
+        },
+        "footprint": {
+            "value": "footprint:C0603",
+            "visible": "False"
+        },
+        "datasheet": {
+            "value": "https://www.lcsc.com/datasheet/C14663.pdf",
+            "visible": "False"
+        },
+        "description": {
+            "value": "100nF ±10% 50V Ceramic Capacitor X7R 0603",
+            "visible": "False"
+        },
+        "keywords": {
+            "value": "C14663",
+            "visible": "False"
+        },
+        "Category": {
+            "value": "Capacitor",
+            "visible": "False"
+        },
+        "SubCategory": {
+            "value": "SMD",
+            "visible": "False"
+        },
+        "Package": {
+            "value": "0603",
+            "visible": "True"
+        },
+        "Manufacturer": {
+            "value": "YAGEO",
+            "visible": "False"
+        },
+        "Manufacturer Part": {
+            "value": "CC0603KRX7R9BB104",
+            "visible": "False"
+        },
+        "Distributor": {
+            "value": "LCSC",
+            "visible": "False"
+        },
+        "Distributor Part": {
+            "value": "C14663",
+            "visible": "False"
+        },
+        "Stock": {
+            "value": "16173800",
+            "visible": "False"
+        },
+        "Capacitance": {
+            "value": "100nF",
+            "visible": "False"
+        },
+        "Temperature Coefficient": {
+            "value": "X7R",
+            "visible": "False"
+        },
+        "Tolerance": {
+            "value": "±10%",
+            "visible": "False"
+        },
+        "Voltage Rating": {
+            "value": "50V",
+            "visible": "False"
+        }
+    }
+}

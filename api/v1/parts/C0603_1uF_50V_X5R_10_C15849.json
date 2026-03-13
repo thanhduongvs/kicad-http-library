@@ -1,6 +1,6 @@
 {
-    "id": "17",
-    "name": "C_100nF_0603",
+    "id": "C0603_1uF_50V_X5R_10_C15849",
+    "name": "C0603_1uF_50V_X5R_10%_C15849",
     "symbolIdStr": "symbol:C0603",
     "exclude_from_bom": "False",
     "exclude_from_board": "False",
@@ -17,15 +17,15 @@
             "visible": "False"
         },
         "datasheet": {
-            "value": "https://www.lcsc.com/datasheet/C14663.pdf",
+            "value": "https://www.lcsc.com/datasheet/C15849.pdf",
             "visible": "False"
         },
         "description": {
-            "value": "100nF ±10% 50V Ceramic Capacitor X7R 0603",
+            "value": "1uF ±10% 50V Ceramic Capacitor X5R 0603",
             "visible": "False"
         },
         "keywords": {
-            "value": "C14663",
+            "value": "C15849",
             "visible": "False"
         },
         "Category": {
@@ -41,11 +41,11 @@
             "visible": "True"
         },
         "Manufacturer": {
-            "value": "YAGEO",
+            "value": "Samsung Electro-Mechanics",
             "visible": "False"
         },
         "Manufacturer Part": {
-            "value": "CC0603KRX7R9BB104",
+            "value": "CL10A105KB8NNNC",
             "visible": "False"
         },
         "Distributor": {
@@ -54,6 +54,26 @@
         },
         "Distributor Part": {
             "value": "C14663",
+            "visible": "False"
+        },
+        "Stock": {
+            "value": "5201000",
+            "visible": "False"
+        },
+        "Capacitance": {
+            "value": "1uF",
+            "visible": "False"
+        },
+        "Temperature Coefficient": {
+            "value": "X5R",
+            "visible": "False"
+        },
+        "Tolerance": {
+            "value": "±10%",
+            "visible": "False"
+        },
+        "Voltage Rating": {
+            "value": "50V",
             "visible": "False"
         }
     }

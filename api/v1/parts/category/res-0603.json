@@ -2,11 +2,11 @@
     {
         "id": "RES_0603_C98220",
         "name": "R_10K_0603_100mW_1%",
-        "description": "Resistor 0603"
+        "description": "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS"
     },
     {
-        "id": "RES_0603_C95177",
-        "name": "R_0R_0603_100mW_5%",
-        "description": "Resistor 0603"
+        "id": "R0603_0R_100mW_5_C95177",
+        "name": "R0603_0R_100mW_5%_C95177",
+        "description": "100mW 0Ω 75V Thick Film Resistor ±5% 0603 Chip Resistor - Surface Mount RoHS"
     }
 ]

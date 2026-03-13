@@ -1,6 +1,6 @@
 {
-    "id": "RES_0603_C95177",
-    "name": "R_0R_0603_100mW_5%",
+    "id": "R0603_10K_100mW_1_C98220",
+    "name": "R0603_10K_100mW_1%_C98220",
     "symbolIdStr": "symbol:R0603",
     "exclude_from_bom": "False",
     "exclude_from_board": "False",
@@ -10,22 +10,22 @@
             "value": "R"
         },
         "value": {
-          "value": "0R"
+          "value": "10K"
         },
         "footprint": {
             "value": "footprint:R0603",
             "visible": "False"
         },
         "datasheet": {
-            "value": "https://www.lcsc.com/datasheet/C95177.pdf",
+            "value": "https://www.lcsc.com/datasheet/C98220.pdf",
             "visible": "False"
         },
         "description": {
-            "value": "100mW 0Ω 75V Thick Film Resistor ±5% 0603 Chip Resistor - Surface Mount RoHS",
+            "value": "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS",
             "visible": "False"
         },
         "keywords": {
-            "value": "C95177",
+            "value": "C98220",
             "visible": "False"
         },
         "Category": {
@@ -45,7 +45,7 @@
             "visible": "False"
         },
         "Manufacturer Part": {
-            "value": "RC0603JR-070RL",
+            "value": "RC0603FR-0710KL",
             "visible": "False"
         },
         "Distributor": {
@@ -53,7 +53,7 @@
             "visible": "False"
         },
         "Distributor Part": {
-            "value": "C95177",
+            "value": "C98220",
             "visible": "False"
         },
         "Stock": {
@@ -85,7 +85,7 @@
             "visible": "False"
         },
         "Tolerance": {
-            "value": "±5%",
+            "value": "±1%",
             "visible": "False"
         }
     }
