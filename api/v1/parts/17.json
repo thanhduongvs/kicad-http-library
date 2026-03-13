@@ -20,7 +20,7 @@
             "value": "https://www.lcsc.com/datasheet/C14663.pdf",
             "visible": "False"
         },
-        "Description": {
+        "description": {
             "value": "100nF ±10% 50V Ceramic Capacitor X7R 0603",
             "visible": "False"
         },

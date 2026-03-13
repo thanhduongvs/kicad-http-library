@@ -1,6 +1,6 @@
 {
-    "id": "16",
-    "name": "R_10K_0603",
+    "id": "RES_0603_C95177",
+    "name": "R_0R_0603_100mW_5%",
     "symbolIdStr": "symbol:R0603",
     "exclude_from_bom": "False",
     "exclude_from_board": "False",
@@ -10,22 +10,22 @@
             "value": "R"
         },
         "value": {
-          "value": "10K"
+          "value": "0R"
         },
         "footprint": {
             "value": "footprint:R0603",
             "visible": "False"
         },
         "datasheet": {
-            "value": "https://www.lcsc.com/datasheet/C98220.pdf",
+            "value": "https://www.lcsc.com/datasheet/C95177.pdf",
             "visible": "False"
         },
         "description": {
-            "value": "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS",
+            "value": "100mW 0Ω 75V Thick Film Resistor ±5% 0603 Chip Resistor - Surface Mount RoHS",
             "visible": "False"
         },
         "keywords": {
-            "value": "C98220",
+            "value": "C95177",
             "visible": "False"
         },
         "Category": {
@@ -45,7 +45,7 @@
             "visible": "False"
         },
         "Manufacturer Part": {
-            "value": "RC0603FR-0710KL",
+            "value": "RC0603JR-070RL",
             "visible": "False"
         },
         "Distributor": {
@@ -53,7 +53,39 @@
             "visible": "False"
         },
         "Distributor Part": {
-            "value": "C98220",
+            "value": "C95177",
+            "visible": "False"
+        },
+        "Stock": {
+            "value": "828000",
+            "visible": "False"
+        },
+        "Power(Watts)": {
+            "value": "100mW",
+            "visible": "False"
+        },
+        "Resistance": {
+            "value": "10kΩ",
+            "visible": "False"
+        },
+        "Operating Temperature": {
+            "value": "-55℃~+155℃",
+            "visible": "False"
+        },
+        "Voltage Rating": {
+            "value": "75V",
+            "visible": "False"
+        },
+        "Type": {
+            "value": "Thick Film Resistor",
+            "visible": "False"
+        },
+        "Temperature Coefficient": {
+            "value": "±100ppm/℃",
+            "visible": "False"
+        },
+        "Tolerance": {
+            "value": "±5%",
             "visible": "False"
         }
     }
