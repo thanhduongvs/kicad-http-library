@@ -1,7 +1,7 @@
 {
   "id": "16",
   "name": "R_0R0_0603_0.125W_1%",
-  "symbolIdStr": "Device:R",
+  "symbolIdStr": "symbol/symbol:C0603",
   "exclude_from_bom": "False",
   "exclude_from_board": "False",
   "exclude_from_sim": "True",
