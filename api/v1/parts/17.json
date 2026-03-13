@@ -1,0 +1,28 @@
+{
+  "id": "17",
+  "name": "R_0R0_0603_0.125W_1%",
+  "symbolIdStr": "symbol:C0603",
+  "exclude_from_bom": "False",
+  "exclude_from_board": "False",
+  "exclude_from_sim": "True",
+  "fields": {
+      "footprint": {
+          "value": "footprint:C0603",
+          "visible": "False"
+      },
+      "datasheet": {
+          "value": "www.kicad.org",
+          "visible": "False"
+      },
+      "value": {
+          "value": "0R0"
+      },
+      "reference": {
+          "value": "R"
+      },
+      "description": {
+          "value": "I am a resistor",
+          "visible": "False"
+      }
+  }
+}
