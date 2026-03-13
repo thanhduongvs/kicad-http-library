@@ -1,28 +1,60 @@
 {
-  "id": "17",
-  "name": "R_0R0_0603",
-  "symbolIdStr": "Device:R",
-  "exclude_from_bom": "False",
-  "exclude_from_board": "False",
-  "exclude_from_sim": "False",
-  "fields": {
-      "footprint": {
-          "value": "footprint:R0603",
-          "visible": "False"
-      },
-      "datasheet": {
-          "value": "www.kicad.org",
-          "visible": "False"
-      },
-      "value": {
-          "value": "0R0"
-      },
-      "reference": {
-          "value": "R"
-      },
-      "description": {
-          "value": "I am a resistor",
-          "visible": "False"
-      }
-  }
+    "id": "17",
+    "name": "C_100nF_0603",
+    "symbolIdStr": "symbol:C0603",
+    "exclude_from_bom": "False",
+    "exclude_from_board": "False",
+    "exclude_from_sim": "False",
+    "fields": {
+        "reference": {
+            "value": "C"
+        },
+        "value": {
+          "value": "100nF"
+        },
+        "footprint": {
+            "value": "footprint:C0603",
+            "visible": "False"
+        },
+        "datasheet": {
+            "value": "https://www.lcsc.com/datasheet/C14663.pdf",
+            "visible": "False"
+        },
+        "description": {
+            "value": "100nF ±10% 50V Ceramic Capacitor X7R 0603",
+            "visible": "False"
+        },
+        "keywords": {
+            "value": "C14663",
+            "visible": "False"
+        },
+        "Category": {
+            "value": "Capacitor",
+            "visible": "False"
+        },
+        "SubCategory": {
+            "value": "SMD",
+            "visible": "False"
+        },
+        "Package": {
+            "value": "0603",
+            "visible": "True"
+        },
+        "Manufacturer": {
+            "value": "YAGEO",
+            "visible": "False"
+        },
+        "Manufacturer Part": {
+            "value": "CC0603KRX7R9BB104",
+            "visible": "False"
+        },
+        "Distributor": {
+            "value": "LCSC",
+            "visible": "False"
+        },
+        "Distributor Part": {
+            "value": "C14663",
+            "visible": "False"
+        }
+    }
 }
