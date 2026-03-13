@@ -4,7 +4,7 @@
   "symbolIdStr": "Device:R",
   "exclude_from_bom": "False",
   "exclude_from_board": "False",
-  "exclude_from_sim": "True",
+  "exclude_from_sim": "False",
   "fields": {
       "footprint": {
           "value": "footprint:R0603",

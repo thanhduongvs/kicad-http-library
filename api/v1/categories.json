@@ -1,10 +1,10 @@
 [
   {
-    "id": "mcu",
-    "name": "Microcontrollers"
+    "id": "res-0603",
+    "name": "Resistor 0603"
   },
   {
-    "id": "power",
-    "name": "Power Management"
+    "id": "cap-0603",
+    "name": "Capacitor 0603"
   }
 ]

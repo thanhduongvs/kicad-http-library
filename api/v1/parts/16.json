@@ -1,28 +1,60 @@
 {
-  "id": "16",
-  "name": "R_0R0_0603_0.125W",
-  "symbolIdStr": "symbol:R0603",
-  "exclude_from_bom": "False",
-  "exclude_from_board": "False",
-  "exclude_from_sim": "True",
-  "fields": {
-      "footprint": {
-          "value": "footprint:R0603",
-          "visible": "False"
-      },
-      "datasheet": {
-          "value": "www.kicad.org",
-          "visible": "False"
-      },
-      "value": {
-          "value": "0R0"
-      },
-      "reference": {
-          "value": "R"
-      },
-      "description": {
-          "value": "I am a resistor",
-          "visible": "False"
-      }
-  }
+    "id": "16",
+    "name": "R_10K_0603",
+    "symbolIdStr": "symbol:R0603",
+    "exclude_from_bom": "False",
+    "exclude_from_board": "False",
+    "exclude_from_sim": "False",
+    "fields": {
+        "reference": {
+            "value": "R"
+        },
+        "value": {
+          "value": "10K"
+        },
+        "footprint": {
+            "value": "footprint:R0603",
+            "visible": "False"
+        },
+        "datasheet": {
+            "value": "https://www.lcsc.com/datasheet/C98220.pdf",
+            "visible": "False"
+        },
+        "description": {
+            "value": "100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS",
+            "visible": "False"
+        },
+        "keywords": {
+            "value": "C98220",
+            "visible": "False"
+        },
+        "Category": {
+            "value": "Resistor",
+            "visible": "False"
+        },
+        "SubCategory": {
+            "value": "SMD",
+            "visible": "False"
+        },
+        "Package": {
+            "value": "0603",
+            "visible": "True"
+        },
+        "Manufacturer": {
+            "value": "YAGEO",
+            "visible": "False"
+        },
+        "ManufacturerPart": {
+            "value": "RC0603FR-0710KL",
+            "visible": "False"
+        },
+        "Distributor": {
+            "value": "LCSC",
+            "visible": "False"
+        },
+        "Distributor Part": {
+            "value": "C98220",
+            "visible": "False"
+        }
+    }
 }
