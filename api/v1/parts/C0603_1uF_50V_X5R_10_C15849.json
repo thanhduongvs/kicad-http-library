@@ -10,7 +10,7 @@
             "value": "C"
         },
         "value": {
-          "value": "100nF"
+          "value": "1uF"
         },
         "footprint": {
             "value": "footprint:C0603",
