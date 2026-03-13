@@ -1,0 +1,10 @@
+[
+  {
+    "id": "mcu",
+    "name": "Microcontrollers"
+  },
+  {
+    "id": "power",
+    "name": "Power Management"
+  }
+]

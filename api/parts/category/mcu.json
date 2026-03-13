@@ -1,0 +1,16 @@
+[
+  {
+    "id": "rv1106g3-nextbyte",
+    "name": "RV1106G3",
+    "description": "Rockchip SoC for Embedded Linux",
+    "keywords": "soc, linux, rockchip",
+    "symbol": "symbol:C0603", 
+    "footprint": "footprint:C0603",
+    "properties": {
+      "Manufacturer": "Rockchip",
+      "Part Number": "RV1106G3",
+      "Core Voltage": "1.8V",
+      "Datasheet": "https://example.com/rv1106.pdf"
+    }
+  }
+]
